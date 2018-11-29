@@ -1,6 +1,6 @@
 # 给iOS开发者的Sketch入门教程
 
-![](http://cdn3.raywenderlich.com/wp-content/uploads/2015/10/delete.png)
+![](https://koenig-media.raywenderlich.com/uploads/2015/10/delete.png)
 
 >注意：这是一篇译文，如果你够装逼，完全可以浏览原文：[Sketch Tutorial for iOS Developers](http://www.raywenderlich.com/117609/sketch-indie-developers)
 >如需转载，请注明出处。谢谢！！！
